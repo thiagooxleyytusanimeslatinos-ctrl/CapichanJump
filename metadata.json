@@ -1,0 +1,5 @@
+{
+  "name": "Copy of capi jump v2",
+  "description": "A vertical platformer game where you guide a Capybara to reach Level 100 by jumping on platforms and avoiding obstacles, inspired by Sonic Jump.",
+  "requestFramePermissions": []
+}

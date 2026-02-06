@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" style="image-rendering: pixelated; image-rendering: crisp-edges;">
+  <rect width="32" height="32" fill="#bfdbfe"/>
+  <!-- Capybara head -->
+  <rect x="6" y="10" width="20" height="16" fill="#b45309"/>
+  <!-- Ears -->
+  <rect x="4" y="8" width="6" height="6" fill="#b45309"/>
+  <rect x="22" y="8" width="6" height="6" fill="#b45309"/>
+  <!-- Snout -->
+  <rect x="10" y="20" width="12" height="6" fill="#451a03"/>
+  <!-- Eyes -->
+  <rect x="10" y="14" width="4" height="4" fill="#000000"/>
+  <rect x="18" y="14" width="4" height="4" fill="#000000"/>
+</svg>
